@@ -1,0 +1,6 @@
+id_venta,fecha,producto,cantidad,precio_unitario,total
+1,2025-01-10,Laptop,1,850,850
+2,2025-01-11,Mouse,2,15,30
+3,2025-01-11,Teclado,1,25,25
+4,2025-01-12,Monitor,1,180,180
+5,2025-01-13,Silla de oficina,1,120,120
